@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,800;1,800&family=PT+Serif:ital@0;1&display=swap');
+
+body{
+
+    background-color: #F1DEC9;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 41.47px;
+    margin-top: 15px;
+    padding-bottom: 0px;
+}
+
+ul{
+    font-family: 'PT Serif', serif;
+    list-style-type: none;
+    text-align: center;
+    font-size: 24px;
+    letter-spacing: 0px;
+    font-style: italic;
+    padding: 15px;
+    margin: 0;
+}
+
+li{
+    padding-bottom: 25px;
+    padding-top: 0px;
+    list-style-type: none;
+}
+
+
+.menu-box{
+    width: 500px;
+    height: auto;
+    padding: 45px;
+    margin: auto;
+}
